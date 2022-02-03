@@ -1,0 +1,28 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="DAVE.png">
+	<!-- Created with Adobe Animate version 22.0.1.105 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="Idle0000" x="2081" y="866" width="686" height="838" frameX="0" frameY="-23" frameWidth="686" frameHeight="861"/>
+	<SubTexture name="Idle0001" x="2767" y="866" width="684" height="841" frameX="-1" frameY="-20" frameWidth="686" frameHeight="861"/>
+	<SubTexture name="Idle0002" x="0" y="1736" width="668" height="846" frameX="-10" frameY="-15" frameWidth="686" frameHeight="861"/>
+	<SubTexture name="Idle0003" x="668" y="1736" width="653" height="855" frameX="-20" frameY="-6" frameWidth="686" frameHeight="861"/>
+	<SubTexture name="Idle0004" x="668" y="1736" width="653" height="855" frameX="-20" frameY="-6" frameWidth="686" frameHeight="861"/>
+	<SubTexture name="Idle0005" x="1321" y="1736" width="639" height="861" frameX="-29" frameY="0" frameWidth="686" frameHeight="861"/>
+	<SubTexture name="Idle0006" x="1321" y="1736" width="639" height="861" frameX="-29" frameY="0" frameWidth="686" frameHeight="861"/>
+	<SubTexture name="Right0000" x="1960" y="1736" width="749" height="846" frameX="-19" frameY="0" frameWidth="805" frameHeight="847"/>
+	<SubTexture name="Right0001" x="2709" y="1736" width="800" height="845" frameX="-2" frameY="-1" frameWidth="805" frameHeight="847"/>
+	<SubTexture name="Right0002" x="0" y="2597" width="803" height="846" frameX="-1" frameY="-1" frameWidth="805" frameHeight="847"/>
+	<SubTexture name="Right0003" x="803" y="2597" width="805" height="846" frameX="0" frameY="-1" frameWidth="805" frameHeight="847"/>
+	<SubTexture name="SplitDown0000" x="0" y="0" width="684" height="841" frameX="-11" frameY="0" frameWidth="701" frameHeight="841"/>
+	<SubTexture name="SplitDown0001" x="684" y="0" width="694" height="833" frameX="-4" frameY="-8" frameWidth="701" frameHeight="841"/>
+	<SubTexture name="SplitDown0002" x="1378" y="0" width="699" height="833" frameX="-1" frameY="-8" frameWidth="701" frameHeight="841"/>
+	<SubTexture name="SplitDown0003" x="2077" y="0" width="701" height="832" frameX="0" frameY="-9" frameWidth="701" frameHeight="841"/>
+	<SubTexture name="SplitLeft0000" x="2778" y="0" width="671" height="866" frameX="-7" frameY="-4" frameWidth="694" frameHeight="871"/>
+	<SubTexture name="SplitLeft0001" x="0" y="866" width="693" height="870" frameX="0" frameY="0" frameWidth="694" frameHeight="871"/>
+	<SubTexture name="SplitLeft0002" x="693" y="866" width="694" height="869" frameX="0" frameY="-1" frameWidth="694" frameHeight="871"/>
+	<SubTexture name="SplitLeft0003" x="1387" y="866" width="694" height="870" frameX="0" frameY="-1" frameWidth="694" frameHeight="871"/>
+	<SubTexture name="Up0000" x="1608" y="2597" width="625" height="881" frameX="0" frameY="-5" frameWidth="625" frameHeight="891"/>
+	<SubTexture name="Up0001" x="2233" y="2597" width="616" height="889" frameX="-2" frameY="-1" frameWidth="625" frameHeight="891"/>
+	<SubTexture name="Up0002" x="2849" y="2597" width="616" height="890" frameX="-2" frameY="-1" frameWidth="625" frameHeight="891"/>
+	<SubTexture name="Up0003" x="3465" y="2597" width="614" height="891" frameX="-3" frameY="0" frameWidth="625" frameHeight="891"/>
+</TextureAtlas>
